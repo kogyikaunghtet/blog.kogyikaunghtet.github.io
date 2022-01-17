@@ -1,1 +1,1 @@
-https://kogyikaunghtet.com
+http://blog.kogyikaunghtet.com
