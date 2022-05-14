@@ -18,6 +18,10 @@ Unicorn vegan humblebrag whatever microdosing, yr pabst post-ironic chartreuse. 
 
 <iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=assets/models/DamagedHelmet.glb$camera=-0.91830,-1.79533,3.60853,-0.00248,0.00001,-0.18715,0.00000,1.00000,0.00000$envsettings=fishermans_bastion,off$backgroundcolor=255,255,255$defaultcolor=200,200,200$edgesettings=off,0,0,0,1"></iframe>
 
+<iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=assets/models/car.glb"></iframe>
+
+<iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=assets/models/car.glb$camera=-7.76471,3.83123,4.61129,-0.00000,1.45887,-3.00176,0.00000,1.00000,0.00000$envsettings=fishermans_bastion,off$backgroundcolor=255,255,255$defaultcolor=200,200,200$edgesettings=off,0,0,0,1"></iframe>
+
 <p align="center">
 <model-viewer src="/assets/img/model/model.gltf" alt="A 3D model of a 2 cylinder engine" auto-rotate camera-controls></model-viewer>
 <br>
