@@ -162,7 +162,7 @@
     ],
     "buffers": [
         {
-            "uri": "model.bin",
+            "uri": "relay.bin",
             "byteLength": 590784
         }
     ],
