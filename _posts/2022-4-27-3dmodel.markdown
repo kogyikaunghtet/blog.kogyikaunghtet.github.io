@@ -23,7 +23,7 @@ Unicorn vegan humblebrag whatever microdosing, yr pabst post-ironic chartreuse. 
 </p>
 
 <p align="center">
-<model-viewer src="/assets/img/model/2pin_screw_connector.step" alt="A 3D model of a 2 cylinder engine" auto-rotate camera-controls></model-viewer>
+<model-viewer src="/assets/img/model/model.obj" alt="A 3D model of a 2 cylinder engine" auto-rotate camera-controls></model-viewer>
 <br>
 <a><b>Figure:</b> Rotary Encoder 3D Model</a>
 </p>
