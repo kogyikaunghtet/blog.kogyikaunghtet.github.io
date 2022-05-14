@@ -8,6 +8,7 @@ fig-caption: ili9486 TFT display running htop command
 tags: [Orange Pi Zero, Displays, TFT]
 ---
 <!DOCTYPE html>
+<html lang="en">
 <head>
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="./node_modules/prismjs/themes/prism.css">
@@ -19,7 +20,13 @@ tags: [Orange Pi Zero, Displays, TFT]
   <script src="./node_modules/fullscreen-polyfill/dist/fullscreen.polyfill.js"></script>
 </head>
 <body>
+<div class="content">
 <model-viewer src="/assets/img/model/model.gltf" alt="A 3D model of a 2 cylinder engine" auto-rotate camera-controls></model-viewer>
+</div>
+  <script type="module"
+    src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>
+  <script nomodule
+    src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
 </body>
 </html>
 
