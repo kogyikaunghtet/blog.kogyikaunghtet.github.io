@@ -7,4 +7,19 @@ img: opi_tft/ili9486_htop.jpg
 fig-caption: ili9486 TFT display running htop command
 tags: [Orange Pi Zero, Displays, TFT]
 ---
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="./css/main.css">
+  <link rel="stylesheet" href="./node_modules/prismjs/themes/prism.css">
+  <link rel="stylesheet" href="./node_modules/prismjs/themes/prism-solarizedlight.css">
+  <script src="./node_modules/prismjs/prism.js"></script>
+  <script src="./node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+  <script src="./node_modules/intersection-observer/intersection-observer.js"></script>
+  <script src="./node_modules/resize-observer-polyfill/dist/ResizeObserver.js"></script>
+  <script src="./node_modules/fullscreen-polyfill/dist/fullscreen.polyfill.js"></script>
+</head>
+<body>
 <model-viewer src="/assets/img/model/model.gltf" alt="A 3D model of a 2 cylinder engine" auto-rotate camera-controls></model-viewer>
+</body>
+</html>
+
