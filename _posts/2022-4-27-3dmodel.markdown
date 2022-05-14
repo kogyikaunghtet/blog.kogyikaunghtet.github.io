@@ -17,11 +17,11 @@ tags: [Orange Pi Zero]
 Unicorn vegan humblebrag whatever microdosing, yr pabst post-ironic chartreuse. IPhone irony fingerstache microdosing juice poutine. Lorem ipsum dolor amet pok pok sriracha drinking vinegar, kogi chia gochujang bicycle rights gentrify shabby chic fingerstache chillwave four loko poke yuccie. La croix hashtag umami, put a bird on it leggings semiotics you probably haven’t heard of them wolf iPhone. Beard portland sustainable poke pinterest messenger bag helvetica 8-bit cray. Keffiyeh PBR&B helvetica organic palo santo, art party pop-up letterpress next level VHS selvage snackwave tumblr deep v. Wayfarers irony ramps, flannel shaman drinking vinegar mumblecore tacos single-origin coffee art party lomo master cleanse cardigan taiyaki.
 
 <div class="responsive-embed flex-video">
-<iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/kogyikaunghtet/my-blog/master/assets/img/model/7seg.bin,https://raw.githubusercontent.com/kogyikaunghtet/my-blog/master/assets/img/model/7seg.gltf"></iframe>
+<iframe width="300" height="180" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/kogyikaunghtet/my-blog/master/assets/img/model/7seg.bin,https://raw.githubusercontent.com/kogyikaunghtet/my-blog/master/assets/img/model/7seg.gltf"></iframe>
 </div>
 
 <div class="responsive-embed flex-video">
-<iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=assets/models/car.glb"></iframe>
+<iframe width="300" height="180" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=assets/models/car.glb"></iframe>
 </div>
 
 <p align="center">
